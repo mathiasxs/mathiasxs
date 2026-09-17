@@ -16,4 +16,4 @@ the interesting part. Keeping an architecture coherent when typing is no longer 
 bottleneck — that is.
 
 **Currently:** Java and Spring Boot, and building things with LLM APIs on the side.
-**Elsewhere:** [LinkedIn](LINKEDIN-URL-HIER-EINTRAGEN)
+**Elsewhere:** [LinkedIn](https://www.linkedin.com/in/mathias-schuetz/)
